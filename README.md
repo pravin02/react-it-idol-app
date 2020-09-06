@@ -34,7 +34,7 @@ Your app is ready to be deployed!
 ![alt text](https://github.com/pravin02/react-it-idol-app/blob/master/screenshots/Instructions.png)
 
 4) QA
-![alt text](https://github.com/pravin02/react-it-idoluiz-app/blob/master/screenshots/QA.png)
+![alt text](https://github.com/pravin02/react-it-idol-app/blob/master/screenshots/QA.png)
 
 5) Result
-![alt text](https://github.com/pravin02/react-it-idoluiz-app/blob/master/screenshots/Result.png)
+![alt text](https://github.com/pravin02/react-it-idol-app/blob/master/screenshots/Result.png)

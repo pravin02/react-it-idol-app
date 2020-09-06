@@ -24,8 +24,17 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 ### Screens
-1) Quiz
-![alt text](https://github.com/pravin02/react-it-idol-app/blob/master/screenshots/QuizScreen.PNG)
+1) Login
+![alt text](https://github.com/pravin02/react-it-idol-app/blob/master/screenshots/Login.png)
 
-2) Result
-![alt text](https://github.com/pravin02/react-it-idoluiz-app/blob/master/screenshots/Result.PNG)
+2) Register
+![alt text](https://github.com/pravin02/react-it-idol-app/blob/master/screenshots/Register.png)
+
+3) Instructions
+![alt text](https://github.com/pravin02/react-it-idol-app/blob/master/screenshots/Instructions.png)
+
+4) QA
+![alt text](https://github.com/pravin02/react-it-idoluiz-app/blob/master/screenshots/QA.png)
+
+5) Result
+![alt text](https://github.com/pravin02/react-it-idoluiz-app/blob/master/screenshots/Result.png)

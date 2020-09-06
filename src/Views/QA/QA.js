@@ -1,5 +1,8 @@
 import React from 'react';
 
+import {Link} from 'react-router-dom';
+
+
 import './QA.css';
 
 const QA = () => (
@@ -115,7 +118,7 @@ const QA = () => (
                             <button type="button" className="btn btn-primary mt-150">Next</button>
                         </div>
                         <div className="col-md-4">
-                            <a href="/result" type="button" className="btn btn-danger mt-150">Finish</a>
+                            <Link to="/result" type="button" className="btn btn-danger mt-150">Finish</Link>
                         </div>
                     </div>
                 </div>

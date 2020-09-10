@@ -11,7 +11,7 @@ const QA = () => {
         document.title = `${AppName} - Exam`;
     });
     return (
-        <div className="main-div">
+        <div className="main-div" style={{minWidth: '100%'}}>
             <form className="text-left">
                 <div className="row">
                     <div className="col-lg-4 col-md-4" style={{ 'border': '1px solid #eee', 'padding': '20px' }}>

@@ -1,6 +1,8 @@
 # ReactITIdolQuizApp
 IT-Idol quiz application using Reactjs
 
+https://github.com/pravin02/react-it-idol-app/wiki
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
